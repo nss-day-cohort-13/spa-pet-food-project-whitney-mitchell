@@ -61,37 +61,6 @@
           ]
         }
       ]
-    },
-    {
-      "name": "Nutro",
-      "types": [
-        {
-          "type": "grain_free",
-          "volumes": [
-            {
-              "volume": "58oz",
-              "price": 32.99
-            },
-            {
-              "volume": "72oz",
-              "price": 42.99
-            }
-          ]
-        },
-        {
-          "type": "standard",
-          "volumes": [
-            {
-              "volume": "58oz",
-              "price": 29.99
-            },
-            {
-              "volume": "72oz",
-              "price": 39.99
-            }
-          ]
-        }
-      ]
     }
   ]
 }
