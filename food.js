@@ -16,7 +16,7 @@ var catContainer = document.getElementById("cat-container");
 
 function pullInDogFood() {
 	var dogFoodData = JSON.parse(this.responseText);
-  dogTable(dogFoodData.dog_brands);
+	dogTable(dogFoodData.dog_brands);
 }
 
 function pullInCatFood() {
@@ -25,7 +25,7 @@ function pullInCatFood() {
 }
 
 function error() {
-	throw "Data failed to load. Try again";
+	throw new Error("Data failed to load. Try again");
 }
 
 function dogTable(dataArray) {

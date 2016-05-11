@@ -5,18 +5,19 @@
 	font-size: 2.5rem;
 	font-weight: bold;
 }
-.table-container {
+.table-container1 {
 	width: 100%;
 	position: relative;
 	border: 5px solid;
 	border-top: 0;
-}
-
-#table-container {
 	background-color: #3d7068;
 }
 
-#cat-container {
+.table-container2 {
+	width: 100%;
+	position: relative;
+	border: 5px solid;
+	border-top: 0;
 	background-color: #9fa0c3;
 }
 
