@@ -1,0 +1,50 @@
+* {
+	box-sizing: border-box;
+}
+.heading {
+	font-size: 2.5rem;
+	font-weight: bold;
+}
+.table-container1 {
+	width: 100%;
+	position: relative;
+	border: 5px solid;
+	border-top: 0;
+	background-color: #3d7068;
+}
+
+.table-container2 {
+	width: 100%;
+	position: relative;
+	border: 5px solid;
+	border-top: 0;
+	background-color: #9fa0c3;
+}
+
+.brand {
+	font-size: 1.5rem;
+	padding: 0 .5%;
+	font-weight: bold;
+	border-top: 5px solid;
+	border-bottom: 5px solid;
+}
+
+.foodType {
+	font-style: italic;
+	padding: .5% 0;
+	margin-left: 2%;
+}
+
+.vols {
+	margin-left: 2.5%;
+	margin-right: 1%;
+}
+
+.price {
+	margin-left: 3.5%;
+	margin-bottom: 1%;
+}
+
+.breeds {
+	margin: 1% 1.5%;
+}
